@@ -1,5 +1,5 @@
 //conditional statements
-const age = 12;
+const age = 20;
 
 if (age >= 18) {
     console.log('you are in f');
