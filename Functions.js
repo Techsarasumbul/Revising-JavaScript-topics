@@ -1,4 +1,6 @@
-//Basics
+
+//FUNCTION IS A BLOCK OF CODE THAT FULLFILL'S A SPECIFIC TASK.
+
 
 function loginUserMessage(username){
     if(username === undefined){
@@ -50,3 +52,4 @@ function returnFirstvalue(getArray) {
 }
 
 console.log(returnFirstvalue(myNewArray))
+
