@@ -92,6 +92,14 @@ if (num > 1) {
     console.log("you entered more");
     
 }if (num <= 1 ) {
-    console.log("you entered less")
+    console.log("you entered less");
 }
 
+
+const numm = 4
+if (num / 6) {
+    console.log("divisible");
+    
+}else {
+    console.log("not divisible")
+}
